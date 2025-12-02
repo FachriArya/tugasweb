@@ -38,23 +38,20 @@
                </button>
                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav ml-auto">
-                     <li class="nav-item ">
-                        <a class="nav-link" href="index.html">Home</a>
+                     <li class="nav-item">
+                        <a class="nav-link" href="index.php">Home</a>
                      </li>
                      <li class="nav-item active">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="about.php">About</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="icecream.html">Icecream</a>
+                        <a class="nav-link" href="products.php">Products</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
+                        <a class="nav-link" href="blog.php">Blog</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Blog</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
+                        <a class="nav-link" href="contact.php">Contact Us</a>
                      </li>
                   </ul>
                   <form class="form-inline my-2 my-lg-0">
@@ -71,16 +68,32 @@
          <div class="container">
             <div class="row">
                <div class="col-md-6">
-                  <div class="about_img"><img src="images/about-img.png"></div>
+                  <div class="about_img"><img src="images/logo 3.png"></div>
                </div>
                <div class="col-md-6">
-                  <h1 class="about_taital">About Icecream</h1>
-                  <p class="about_text">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore euconsectetur adipiscing esequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu</p>
+                  <h1 class="about_taital">Puspa Ayu</h1>
+                  <p class="about_text">Puspa Ayu adalah merek kosmetik lokal (UMKM yang telah berkembang menjadi PT) yang berdedikasi untuk menghadirkan produk kecantikan alami dan Halal dengan memanfaatkan kekayaan alam dan warisan budaya Indonesia. Didirikan dengan keyakinan bahwa kecantikan sejati berasal dari alam, Puspa Ayu berkomitmen untuk menggunakan bahan-bahan terbaik dari Nusantara, diproses dengan teknologi modern namun tetap menjunjung tinggi kearifan lokal.</p>
                   <div class="read_bt_1"><a href="#">Read More</a></div>
                </div>
             </div>
          </div>
       </div>
+      <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-6">
+                  <h1 class="about_taital">Puspa Ayu</h1>
+
+               </div>
+               <div class="col-md-6">
+                  <h1 class="about_taital">Puspa Ayu</h1>
+                  <p class="about_text">Puspa Ayu adalah merek kosmetik lokal (UMKM yang telah berkembang menjadi PT) yang berdedikasi untuk menghadirkan produk kecantikan alami dan Halal dengan memanfaatkan kekayaan alam dan warisan budaya Indonesia. Didirikan dengan keyakinan bahwa kecantikan sejati berasal dari alam, Puspa Ayu berkomitmen untuk menggunakan bahan-bahan terbaik dari Nusantara, diproses dengan teknologi modern namun tetap menjunjung tinggi kearifan lokal.</p>
+                  <div class="read_bt_1"><a href="#">Read More</a></div>
+               </div>
+            </div>
+         </div>
+      </div>
+
       <!-- about sectuion end -->
       <!-- copyright section start -->
       <div class="copyright_section margin_top90">
