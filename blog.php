@@ -32,29 +32,26 @@
       <div class="header_section header_bg">
          <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-               <a class="navbar-brand"href="index.html"><img src="images/logo.png"></a>
+               <a class="navbar-brand"href="index.php"><img src="images/logo b putih.png"  width="200" height="10"></a>
                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                <span class="navbar-toggler-icon"></span>
                </button>
                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav ml-auto">
+                     <li class="nav-item ">
+                        <a class="nav-link" href="index.php">Beranda</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="tentang.php">Tentang</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="produk.php">Produk</a>
+                     </li>
                      <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="blog.php">Blog</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="icecream.html">Icecream</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Blog</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
+                        <a class="nav-link" href="kontak.php">Kontak</a>
                      </li>
                   </ul>
                   <form class="form-inline my-2 my-lg-0">
@@ -71,7 +68,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12">
-                  <h1 class="testimonial_taital">Testimonial</h1>
+                  <h1 class="testimonial_taital">Testimoni</h1>
                </div>
             </div>
             <div class="testimonial_section_2">
@@ -81,19 +78,16 @@
                         <div id="main_slider" class="carousel slide" data-ride="carousel">
                            <div class="carousel-inner">
                               <div class="carousel-item active">
-                                 <p class="testimonial_text">tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint</p>
-                                 <h4 class="client_name">Marri Fen</h4>
-                                 <div class="client_img"><img src="images/client-img.png"></div>
+                                 <p class="testimonial_text">Sejak pakai Facial Cleanser Kunyit dan Serum Anti-Aging Bunga Lawang, kulit wajah saya yang kusam jadi cerah merata! Pembersihnya lembut banget, nggak bikin kering. Dan serumnya, wow, garis halus di bawah mata mulai tersamar. Benar-benar Glow alami seperti yang dijanjikan! Puspa Ayu sukses mengangkat kekayaan jamu ke skincare modern</p>
+                                 <h4 class="client_name">Rina S., 35 tahun</h4>
                               </div>
                               <div class="carousel-item">
-                                 <p class="testimonial_text">tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint</p>
-                                 <h4 class="client_name">Marri Fen</h4>
-                                 <div class="client_img"><img src="images/client-img.png"></div>
+                                 <p class="testimonial_text">Akhirnya ketemu lipstik matte yang nggak bikin bibir pecah-pecah! Matte Lipstick Merah Senja ini warnanya bold dan elegan, cocok banget buat acara malam. Formulanya ringan, transfer minimal, dan yang paling penting, nyaman di bibir. Warna-warna dari seri 'Warna Bumi' ini memang cantik dan otentik!</p>
+                                 <h4 class="client_name">Maya P., 24 tahun</h4>
                               </div>
                               <div class="carousel-item">
-                                 <p class="testimonial_text">tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint</p>
-                                 <h4 class="client_name">Marri Fen</h4>
-                                 <div class="client_img"><img src="images/client-img.png"></div>
+                                 <p class="testimonial_text">Lulur Rempah Kopi-nya super ampuh mengangkat daki dan bikin kulit halus seperti bayi. Wangi kopinya menenangkan</p>
+                                 <h4 class="client_name">Dewi K., 28 tahun</h4>
                               </div>
                            </div>
                            <a class="carousel-control-prev" href="#main_slider" role="button" data-slide="prev">
@@ -113,7 +107,7 @@
       <!-- copyright section start -->
       <div class="copyright_section">
          <div class="container">
-            <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Free Html Templates</a> Distribution by <a href="https://themewagon.com">ThemeWagon</a></p>
+            <p class="copyright_text">2025 || Kelompok 1 503. </p>
          </div>
       </div>
       <!-- copyright section end -->
