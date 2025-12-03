@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>About</title>
+      <title>Contact</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -32,26 +32,26 @@
       <div class="header_section header_bg">
          <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-               <a class="navbar-brand"href="index.html"><img src="images/logo b putih.png"  width="200" height="10"></a>
+               <a class="navbar-brand"href="index.php"><img src="images/logo b putih.png"  width="200" height="10"></a>
                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                <span class="navbar-toggler-icon"></span>
                </button>
                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav ml-auto">
-                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Home</a>
-                     </li>
-                     <li class="nav-item active">
-                        <a class="nav-link" href="about.php">About</a>
+                     <li class="nav-item ">
+                        <a class="nav-link" href="index.php">Beranda</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="products.php">Products</a>
+                        <a class="nav-link" href="tentang.php">Tentang</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="produk.php">Produk</a>
                      </li>
                      <li class="nav-item">
                         <a class="nav-link" href="blog.php">Blog</a>
                      </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="contact.php">Contact Us</a>
+                     <li class="nav-item active">
+                        <a class="nav-link" href="kontak.php">Kontak</a>
                      </li>
                   </ul>
                   <form class="form-inline my-2 my-lg-0">
@@ -63,42 +63,66 @@
          </div>
       </div>
       <!-- header section end -->
-      <!-- about sectuion start -->
-      <div class="about_section layout_padding">
+      <!-- contact section start -->
+      <div class="contact_section layout_padding">
          <div class="container">
             <div class="row">
-               <div class="col-md-6">
-                  <div class="about_img"><img src="images/logo 3.png"></div>
+               <div class="col-md-4">
+                  <div class="contact_main">
+                     <h1 class="contact_taital">Kontak</h1>
+                     <form action="/action_page.php">
+                        <div class="form-group">
+                           <input type="text" class="email-bt" placeholder="Nama" name="Name">
+                        </div>
+                        <div class="form-group">
+                           <input type="text" class="email-bt" placeholder="Email" name="Name">
+                        </div>
+                        <div class="form-group">
+                           <input type="text" class="email-bt" placeholder="Telepon" name="Email">
+                        </div>
+                        <div class="form-group">
+                           <textarea class="massage-bt" placeholder="Pesan" rows="5" id="comment" name="Massage"></textarea>
+                        </div>
+                     </form>
+                     <div class="main_bt"><a href="#">Kirim</a></div>
+                  </div>
                </div>
-               <div class="col-md-6">
-                  <h1 class="about_taital">Puspa Ayu</h1>
-                  <p class="about_text">Puspa Ayu adalah merek kosmetik lokal (UMKM yang telah berkembang menjadi PT) yang berdedikasi untuk menghadirkan produk kecantikan alami dan Halal dengan memanfaatkan kekayaan alam dan warisan budaya Indonesia. Didirikan dengan keyakinan bahwa kecantikan sejati berasal dari alam, Puspa Ayu berkomitmen untuk menggunakan bahan-bahan terbaik dari Nusantara, diproses dengan teknologi modern namun tetap menjunjung tinggi kearifan lokal.</p>
-                  <div class="read_bt_1"><a href="#">Read More</a></div>
+               <div class="col-md-8">
+                  <div class="location_text">
+                     <ul>
+                        <li>
+                           <a href="#">
+                           <span class="padding_left_10 active"><i class="fa fa-map-marker" aria-hidden="true"></i></span>Yogyakarta</a>
+                        </li>
+                        <li>
+                           <a href="#">
+                           <span class="padding_left_10"><i class="fa fa-phone" aria-hidden="true"></i></span>Telepon : +62 81299177258
+                           </a>
+                        </li>
+                        <li>
+                           <a href="#">
+                           <span class="padding_left_10"><i class="fa fa-envelope" aria-hidden="true"></i></span>Email : Purpaayukosmetik@gmail.com
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="footer_social_icon">
+                     <ul>
+                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                     </ul>
+                  </div>
                </div>
             </div>
          </div>
       </div>
-      <div class="about_section layout_padding">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-6">
-                  <h1 class="about_taital">Puspa Ayu</h1>
-
-               </div>
-               <div class="col-md-6">
-                  <h1 class="about_taital">Puspa Ayu</h1>
-                  <p class="about_text">Puspa Ayu adalah merek kosmetik lokal (UMKM yang telah berkembang menjadi PT) yang berdedikasi untuk menghadirkan produk kecantikan alami dan Halal dengan memanfaatkan kekayaan alam dan warisan budaya Indonesia. Didirikan dengan keyakinan bahwa kecantikan sejati berasal dari alam, Puspa Ayu berkomitmen untuk menggunakan bahan-bahan terbaik dari Nusantara, diproses dengan teknologi modern namun tetap menjunjung tinggi kearifan lokal.</p>
-                  <div class="read_bt_1"><a href="#">Read More</a></div>
-               </div>
-            </div>
-         </div>
-      </div>
-
-      <!-- about sectuion end -->
+      <!-- contact section end -->
       <!-- copyright section start -->
-      <div class="copyright_section margin_top90">
+      <div class="copyright_section">
          <div class="container">
-            <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Free Html Templates</a> Distribution by <a href="https://themewagon.com">ThemeWagon</a></p>
+            <p class="copyright_text">2025 || Kelompok 1 503. </p>
          </div>
       </div>
       <!-- copyright section end -->

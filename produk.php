@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="viewport" content="initial-scale=1, maximum-scale=1">
       <!-- site metas -->
-      <title>Icecream</title>
+      <title>Produk</title>
       <meta name="keywords" content="">
       <meta name="description" content="">
       <meta name="author" content="">
@@ -32,29 +32,26 @@
       <div class="header_section header_bg">
          <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-               <a class="navbar-brand"href="index.html"><img src="images/logo.png"></a>
+               <a class="navbar-brand"href="index.php"><img src="images/logo b putih.png"  width="200" height="10"></a>
                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                <span class="navbar-toggler-icon"></span>
                </button>
                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav ml-auto">
+                     <li class="nav-item ">
+                        <a class="nav-link" href="index.php">Beranda</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="tentang.php">Tentang</a>
+                     </li>
                      <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="produk.php">Produk</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="blog.php">Blog</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="icecream.html">Icecream</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Blog</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
+                        <a class="nav-link" href="kontak.php">Kontak</a>
                      </li>
                   </ul>
                   <form class="form-inline my-2 my-lg-0">
@@ -66,79 +63,92 @@
          </div>
       </div>
       <!-- header section end -->
-      <!-- cream sectuion start -->
+      <!-- produk sectuion start -->
       <div class="cream_section layout_padding">
          <div class="container">
             <div class="row">
                <div class="col-md-12">
-                  <h1 class="cream_taital">Our Featured Ice Cream</h1>
-                  <p class="cream_text">tempor incididunt ut labore et dolore magna aliqua</p>
+                  <h1 class="cream_taital">PRODUK</h1>
                </div>
             </div>
             <div class="cream_section_2">
                <div class="row">
                   <div class="col-md-4">
                      <div class="cream_box">
-                        <div class="cream_img"><img src="images/img-1.png"></div>
-                        <div class="price_text">$10</div>
-                        <h6 class="strawberry_text">Strawberry Ice Cream</h6>
-                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                        <div class="cream_img"><img src="images/lipstik.png"></div>
+                        <div class="price_text">150K</div>
+                        <h6 class="strawberry_text">Matte Lipstick Merah Senja</h6>
+                        <div class="cart_bt"><a href="#">Detail</a></div>
+                     </div>
+                  </div>
+                   <div class="col-md-4">
+                     <div class="cream_box">
+                        <div class="cream_img"><img src="images/liptin.png"></div>
+                        <div class="price_text">100K</div>
+                        <h6 class="strawberry_text">Lip Tint Merah Jambu Pagi</h6>
+                        <div class="cart_bt"><a href="#">Detail</a></div>
+                     </div>
+                  </div>
+               <div class="col-md-4">
+                     <div class="cream_box">
+                        <div class="cream_img"><img src="images/facial kunyit.png"></div>
+                        <div class="price_text">150K</div>
+                        <h6 class="strawberry_text">Facial Cleanser Kunyit</h6>
+                        <div class="cart_bt"><a href="#">Detail</a></div>
                      </div>
                   </div>
                   <div class="col-md-4">
                      <div class="cream_box">
-                        <div class="cream_img"><img src="images/img-2.png"></div>
-                        <div class="price_text">$10</div>
-                        <h6 class="strawberry_text">Strawberry Ice Cream</h6>
-                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                        <div class="cream_img"><img src="images/toner.png"></div>
+                        <div class="price_text">150K</div>
+                        <h6 class="strawberry_text">Hydrating Toner Temulawak</h6>
+                        <div class="cart_bt"><a href="#">Detail</a></div>
                      </div>
                   </div>
                   <div class="col-md-4">
                      <div class="cream_box">
-                        <div class="cream_img"><img src="images/img-1.png"></div>
-                        <div class="price_text">$10</div>
-                        <h6 class="strawberry_text">Strawberry Ice Cream</h6>
-                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                        <div class="cream_img"><img src="images/serum.png"></div>
+                        <div class="price_text">100K</div>
+                        <h6 class="strawberry_text">Serum Anti-Aging Bunga</h6>
+                        <div class="cart_bt"><a href="#">Detail</a></div>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="cream_box">
+                        <div class="cream_img"><img src="images/lulur kopi.png"></div>
+                        <div class="price_text">100K</div>
+                        <h6 class="strawberry_text">Lulur Rempah Kopi</h6>
+                        <div class="cart_bt"><a href="#">Detail</a></div>
                      </div>
                   </div>
                </div>
             </div>
-            <div class="cream_section_2">
                <div class="row">
                   <div class="col-md-4">
                      <div class="cream_box">
-                        <div class="cream_img"><img src="images/img-3.png"></div>
-                        <div class="price_text">$10</div>
-                        <h6 class="strawberry_text">Strawberry Ice Cream</h6>
-                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                        <div class="cream_img"><img src="images/body care.png"></div>
+                        <div class="price_text">100K</div>
+                        <h6 class="strawberry_text">Body Butter Cendana</h6>
+                        <div class="cart_bt"><a href="#">Detail</a></div>
                      </div>
                   </div>
                   <div class="col-md-4">
                      <div class="cream_box">
-                        <div class="cream_img"><img src="images/img-4.png"></div>
-                        <div class="price_text">$10</div>
-                        <h6 class="strawberry_text">Strawberry Ice Cream</h6>
-                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
-                     </div>
-                  </div>
-                  <div class="col-md-4">
-                     <div class="cream_box">
-                        <div class="cream_img"><img src="images/img-5.png"></div>
-                        <div class="price_text">$10</div>
-                        <h6 class="strawberry_text">Strawberry Ice Cream</h6>
-                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                        <div class="cream_img"><img src="images/sabun.png"></div>
+                        <div class="price_text">100K</div>
+                        <h6 class="strawberry_text">Sabun Mandi Herbal Sereh</h6>
+                        <div class="cart_bt"><a href="#">Detail</a></div>
                      </div>
                   </div>
                </div>
             </div>
-            <div class="seemore_bt"><a href="#">See More</a></div>
          </div>
       </div>
       <!-- cream sectuion end -->
       <!-- copyright section start -->
       <div class="copyright_section margin_top90">
          <div class="container">
-            <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Free Html Templates</a> Distribution by <a href="https://themewagon.com">ThemeWagon</a></p>
+            <p class="copyright_text">2025 || Kelompok 1 503. </p>
          </div>
       </div>
       <!-- copyright section end -->
