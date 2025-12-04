@@ -54,10 +54,12 @@
                         <a class="nav-link" href="kontak.php">Kontak</a>
                      </li>
                   </ul>
+                  <!--
                   <form class="form-inline my-2 my-lg-0">
                      <div class="login_bt"><a href="#">Login <span style="color: #222222;"><i class="fa fa-user" aria-hidden="true"></i></span></a></div>
                      <div class="fa fa-search form-control-feedback"></div>
                   </form>
+                  -->
                </div>
             </nav>
          </div>
@@ -129,11 +131,30 @@
     <td><b>Keberlanjutan</b></td>
     <td>Bertanggung jawab terhadap lingkungan dan sosial dalam setiap aspek bisnis.</td>
   </tr>
-
                      </table>
                   </p>
             </div>
-         </div>     <!-- tentang sectuion end -->
+         </div>   
+        <div class="container">
+            <div class="row">
+               <div class="col-md-6">
+                  <h1 class="about_taital">Komitmen Sosial dan Lingkungan</h1>
+                  <p class="about_text">Puspa Ayu percaya bahwa bisnis harus memberikan dampak positif. </p>
+<p class="about_text">•	Kemitraan Petani: Bekerja sama langsung dengan kelompok petani di Jawa dan Sumatera untuk pengadaan bahan baku seperti kunyit, temulawak, dan kopi, memastikan harga yang adil (fair trade).</p>
+<p class="about_text">•	Pengemasan Ramah Lingkungan: Menggunakan kemasan yang dapat didaur ulang (kaca dan karton daur ulang) dan mengurangi penggunaan plastik sekali pakai.</p>
+<p class="about_text">•	Dukungan Komunitas: Secara rutin menyumbangkan sebagian keuntungan untuk program edukasi kesehatan dan kebersihan di desa-desa mitra.</p>
+            </div>
+               <div class="col-md-6">
+                 <h1 class="about_taital">Sertifikasi dan Kepatuhan</h1>
+                  <p class="about_text">Puspa Ayu memastikan semua produknya diproduksi sesuai dengan standar kualitas tertinggi dan telah memperoleh sertifikasi penting: </p>
+<p class="about_text">•		Sertifikasi Halal MUI: Menjamin bahwa semua bahan dan proses produksi sesuai dengan syariat Islam.</p>
+<p class="about_text">•		Izin Edar BPOM: Memastikan keamanan, kualitas, dan efektivitas produk sesuai regulasi pemerintah Indonesia.</p>
+<p class="about_text">•		Good Manufacturing Practice (GMP): Komitmen terhadap standar produksi yang baik dan higienis.</p>
+            </div>
+               </div>
+            </div>
+         </div> 
+         <!-- tentang sectuion end -->
       <!-- copyright section start -->
       <div class="copyright_section margin_top90">
          <div class="container">

@@ -54,16 +54,18 @@
                         <a class="nav-link" href="kontak.php">Kontak</a>
                      </li>
                   </ul>
+                  <!--
                   <form class="form-inline my-2 my-lg-0">
                      <div class="login_bt"><a href="#">Login <span style="color: #222222;"><i class="fa fa-user" aria-hidden="true"></i></span></a></div>
                      <div class="fa fa-search form-control-feedback"></div>
                   </form>
+                  -->
                </div>
             </nav>
          </div>
       </div>
       <!-- header section end -->
-      <!-- produk sectuion start -->
+         <!-- Produk -->
       <div class="cream_section layout_padding">
          <div class="container">
             <div class="row">
@@ -73,78 +75,216 @@
             </div>
             <div class="cream_section_2">
                <div class="row">
-                  <div class="col-md-4">
+            <div class="col-md-4 mb-4">
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/lipstik.png"></div>
                         <div class="price_text">150K</div>
                         <h6 class="strawberry_text">Matte Lipstick Merah Senja</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
                      </div>
                   </div>
+                  
                    <div class="col-md-4">
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/liptin.png"></div>
-                        <div class="price_text">100K</div>
-                        <h6 class="strawberry_text">Lip Tint Merah Jambu Pagi</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
+                         <div class="price_text">150K</div>
+                       <h6 class="strawberry_text">Lip Tint Merah Jambu Pagi</h6>
                      </div>
                   </div>
                <div class="col-md-4">
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/facial kunyit.png"></div>
-                        <div class="price_text">150K</div>
-                        <h6 class="strawberry_text">Facial Cleanser Kunyit</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
+                         <div class="price_text">150K</div>
+                       <h6 class="strawberry_text">Facial Cleanser Kunyit</h6>
                      </div>
                   </div>
-                  <div class="col-md-4">
+<!-- Produk End-->   
+<!-- Produk Keterangan -->
+ <div class="col-md-4 mb-4">
+    <table border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width:100%;">
+    <thead>
+        <tr>
+            <th>Bahan Utama</th>
+            <th>Manfaat Utama</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Minyak Biji Bunga Matahari, Pigmen Mineral</td>
+            <td>Warna intens, tahan lama, tidak membuat bibir kering.</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<div class="col-md-4 mb-4">
+    <table border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width:100%;">
+    <thead>
+        <tr>
+            <th>Bahan Utama</th>
+            <th>Manfaat Utama</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ekstrak Buah Naga, Vitamin E.</td>
+            <td>Pewarna bibir ringan, melembapkan, tampilan alami.</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+            <div class="col-md-4 mb-4">
+    <table border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width:100%;">
+    <thead>
+        <tr>
+            <th>Bahan Utama</th>
+            <th>Manfaat Utama</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ekstrak Kunyit, Madu</td>
+            <td>Membersihkan mendalam, mencerahkan, anti-inflamasi.</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<!-- Produk Keterangan End-->
+         <!-- Produk -->
+                  <div class="col-md-4 mb-4">
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/toner.png"></div>
                         <div class="price_text">150K</div>
                         <h6 class="strawberry_text">Hydrating Toner Temulawak</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
                      </div>
                   </div>
-                  <div class="col-md-4">
+                  <div class="col-md-4 mb-4">
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/serum.png"></div>
-                        <div class="price_text">100K</div>
+                        <div class="price_text">150K</div>
                         <h6 class="strawberry_text">Serum Anti-Aging Bunga</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
                      </div>
                   </div>
-                  <div class="col-md-4">
+                  <div class="col-md-4 mb-4">
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/lulur kopi.png"></div>
-                        <div class="price_text">100K</div>
-                        <h6 class="strawberry_text">Lulur Rempah Kopi</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
+                         <div class="price_text">150K</div>
+                       <h6 class="strawberry_text">Lulur Rempah Kopi</h6>
                      </div>
                   </div>
                </div>
             </div>
-               <div class="row">
-                  <div class="col-md-4">
-                     <div class="cream_box">
-                        <div class="cream_img"><img src="images/body care.png"></div>
-                        <div class="price_text">100K</div>
-                        <h6 class="strawberry_text">Body Butter Cendana</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
-                     </div>
+<!-- Produk end -->
+<!-- Produk Keterangan -->
+            <div class="row">
+            <div class="col-md-4 mb-4">
+                  <table border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width:100%;">
+                     <thead>
+                        <tr>
+                           <th>Bahan Utama</th>
+                           <th>Manfaat Utama</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Ekstrak Temulawak, Lidah Buaya</td>
+                           <td>Menyegarkan, menyeimbangkan pH kulit, mengurangi noda hitam.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            <div class="col-md-4 mb-4">
+                  <table border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width:100%;">
+                     <thead>
+                        <tr>
+                           <th>Bahan Utama</th>
+                           <th>Manfaat Utama</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Minyak Bunga Lawang, Kolagen Nabati</td>
+                           <td> Mengurangi garis halus, meningkatkan elastisitas kulit.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="col-md-4 mb-4">
+                  <table border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width:100%;">
+                     <thead>
+                        <tr>
+                           <th>Bahan Utama</th>
+                           <th>Manfaat Utama</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Bubuk Kopi, Rempah Pilihan</td>
+                           <td>Eksfoliasi sel kulit mati, melancarkan peredaran darah, menghaluskan kulit.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+<!-- Produk Keterangan End-->
+<!-- Produk -->
+            <div class="row">
+               <div class="col-md-4 mb-4">
+                  <div class="cream_box">
+                     <div class="cream_img"><img src="images/body care.png"></div>
+                     <div class="price_text">100K</div>
+                     <h6 class="strawberry_text">Body Butter Cendana</h6>
                   </div>
-                  <div class="col-md-4">
-                     <div class="cream_box">
-                        <div class="cream_img"><img src="images/sabun.png"></div>
-                        <div class="price_text">100K</div>
-                        <h6 class="strawberry_text">Sabun Mandi Herbal Sereh</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
-                     </div>
+               </div>
+               <div class="col-md-4 mb-4">
+                  <div class="cream_box">
+                     <div class="cream_img"><img src="images/sabun.png"></div>
+                     <div class="price_text">100K</div>
+                     <h6 class="strawberry_text">Sabun Mandi Herbal Sereh</h6>
                   </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-4 mb-4">
+                  <table border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width:100%;">
+                     <thead>
+                        <tr>
+                           <th>Bahan Utama</th>
+                           <th>Manfaat Utama</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Minyak Cendana, Shea Butter</td>
+                           <td>Melembapkan intensif, menenangkan kulit, aroma relaksasi.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+               <div class="col-md-4 mb-4">
+                  <table border="0" cellspacing="0" cellpadding="5" style="border-collapse: collapse; width:100%;">
+                     <thead>
+                        <tr>
+                           <th>Bahan Utama</th>
+                           <th>Manfaat Utama</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Minyak Sereh, Minyak Kelapa</td>
+                           <td>Membersihkan, anti-bakteri alami, menyegarkan tubuh.</td>
+                        </tr>
+                     </tbody>
+                  </table>
                </div>
             </div>
          </div>
       </div>
-      <!-- cream sectuion end -->
+      
+<!-- Produk end -->
+ <!-- Produk -->
+
+<!-- Produk end -->
+ <!-- Produk Keterangan -->
       <!-- copyright section start -->
       <div class="copyright_section margin_top90">
          <div class="container">

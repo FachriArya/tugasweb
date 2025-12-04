@@ -54,10 +54,12 @@
                         <a class="nav-link" href="kontak.php">Kontak</a>
                      </li>
                   </ul>
+                  <!--
                   <form class="form-inline my-2 my-lg-0">
                      <div class="login_bt"><a href="#">Login <span style="color: #222222;"><i class="fa fa-user" aria-hidden="true"></i></span></a></div>
                      <div class="fa fa-search form-control-feedback"></div>
                   </form>
+                  -->
                </div>
             </nav>
          </div>

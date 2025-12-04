@@ -55,10 +55,12 @@
                         <a class="nav-link" href="kontak.php">Kontak</a>
                      </li>
                   </ul>
+                  <!--
                   <form class="form-inline my-2 my-lg-0">
                      <div class="login_bt"><a href="#">Login <span style="color: #222222;"><i class="fa fa-user" aria-hidden="true"></i></span></a></div>
                      <div class="fa fa-search form-control-feedback"></div>
                   </form>
+                  -->
                </div>
             </nav>
          </div>
@@ -130,21 +132,21 @@
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/facial kunyit.png"></div>
                         <h6 class="strawberry_text">Facial Cleanser Kunyit</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
-                     </div>
+                        <div class="cart_bt"><a href="produk.php">Detail</a></div>
+                  </div>
                   </div>
                   <div class="col-md-4">
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/lulur kopi.png"></div>
                         <h6 class="strawberry_text">Lulur Rempah Kopi</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
+                        <div class="cart_bt"><a href="produk.php">Detail</a></div>
                      </div>
                   </div>
                   <div class="col-md-4">
                      <div class="cream_box">
                         <div class="cream_img"><img src="images/lipstik.png"></div>
                         <h6 class="strawberry_text">Matte Lipstick Merah Senja</h6>
-                        <div class="cart_bt"><a href="#">Detail</a></div>
+                        <div class="cart_bt"><a href="produk.php">Detail</a></div>
                      </div>
                   </div>
                </div>
@@ -163,8 +165,8 @@
                <div class="col-md-6">
                   <h1 class="about_taital">Puspa Ayu</h1>
                   <p class="about_text">Puspa Ayu adalah merek kosmetik lokal (UMKM yang telah berkembang menjadi PT) yang berdedikasi untuk menghadirkan produk kecantikan alami dan Halal dengan memanfaatkan kekayaan alam dan warisan budaya Indonesia. Didirikan dengan keyakinan bahwa kecantikan sejati berasal dari alam, Puspa Ayu berkomitmen untuk menggunakan bahan-bahan terbaik dari Nusantara, diproses dengan teknologi modern namun tetap menjunjung tinggi kearifan lokal.</p>
-                  <div class="read_bt_1"><a href=tentang.php">Detail</a></div>
-               </div>
+ <div class="read_bt_1"><a href="tentang.php">Detail</a></div>
+
             </div>
          </div>
       </div>
